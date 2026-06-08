@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  postgres-operator:
+  - apiVersion: v2
+    appVersion: 6.0.1
+    created: "2026-06-08T12:53:41.836507948Z"
+    description: Installer for the Postgres Operator from Crunchy Data
+    digest: ab5d13df7cbda3abbf3261dc5c736ee1b692201870b0445f59179e1af1f0fcc6
+    icon: https://avatars.githubusercontent.com/u/8248870
+    name: postgres-operator
+    type: application
+    urls:
+    - https://github.com/DLR-terrabyte/postgres-helm/releases/download/postgres-operator-0.1.0/postgres-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-08T12:53:41.836515855Z"
