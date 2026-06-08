@@ -7,6 +7,6 @@ Helm Charts for Postgres
 ### Quickstart:
 
 ```shell
-helm repo add my-postgres https://eopterix.github.io/postgres-helm
-helm install my-pgo my-postgres/operator
+helm repo add my-repo https://dlr-terrabyte.github.io/postgres-helm
+helm install -g my-repo/postgres-operator
 ```
