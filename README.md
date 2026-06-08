@@ -8,5 +8,5 @@ Helm Charts for Postgres
 
 ```shell
 helm repo add my-postgres https://eopterix.github.io/postgres-helm
-helm install my-pgo my-postgres/pgo
+helm install my-pgo my-postgres/operator
 ```
